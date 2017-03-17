@@ -13,5 +13,5 @@ Devido a uma atualização do Intel XDK, não há mais a opção de criar direta
 7. Daqui em diante só seguir o livro normalmente!
 
 ## XDK VERSÃO 3900+ NÃO FAZ MAIS BUILD NA NUVEM!
-Segundo nota da Intel, a partir da versão 3900 do XDK o build na nuvem está descontinuado e será removido completamente das próximas versões e é altamente recomendado seguir os passos deste link (fornecido pela Intel e equipe do XDK) para gerar aplicativos móveis: https://software.intel.com/pt-br/xdk/docs/build-xdk-app-with-phonegap-cordova-cli
+Segundo nota da Intel, a partir da versão 3900 do XDK o build na nuvem está descontinuado e será removido completamente das próximas versões. É altamente recomendado seguir os passos deste link (fornecido pela Intel e equipe do XDK) para gerar aplicativos móveis: https://software.intel.com/pt-br/xdk/docs/build-xdk-app-with-phonegap-cordova-cli
 
